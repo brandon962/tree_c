@@ -1,3 +1,6 @@
+Data Structures HW2
+
+
 File Operation
 
 • 一開始要show 出 1[23[4[78]56]] (預設的目錄結構,3和6目錄有先存string)
